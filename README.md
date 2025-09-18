@@ -1,1 +1,1 @@
-README for Procutz
+This is a landing page for the business Procutz
